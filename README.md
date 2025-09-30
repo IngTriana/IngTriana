@@ -55,9 +55,3 @@
 Gracias por visitar mi perfil 🙌 ¡Estoy abierto a oportunidades, colaboraciones o simplemente una buena plática geek!
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/IngTriana/count.svg?"  />
-</div>
-
-###
